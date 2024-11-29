@@ -1,3 +1,3 @@
-- [https://readme.so/](readme)
-- [https://vite.dev/guide/](vite)
-- 
+- [readme](https://readme.so/pt)
+- [vite/](https://vite.dev/guide/)
+- [react](https://react.dev/learn/)
